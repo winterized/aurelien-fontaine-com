@@ -1,0 +1,4 @@
+baseURL = "https://www.aurelienfontaine.com/"
+languageCode = "en-us"
+title = "Aurelien Fontaine"
+theme = "tranquilpeak"
